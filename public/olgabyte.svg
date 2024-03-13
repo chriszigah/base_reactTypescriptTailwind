@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.26772in" height="11.6929in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8267.72 11692.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="789" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Gotham">
+		<font-face-src>
+			<font-face-name name="Gotham-Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="790" d="M766.003 0l-300.001 705.002 -142.001 0 -300.001 -705.002 157.004 0 63.9972 156.997 296.002 0 63.9972 -156.997 161.004 0zm-280.002 292.998l-185.999 0 92.9996 227.001 92.9996 -227.001z"/>
+   <glyph unicode="B" horiz-adv-x="722" d="M679.001 192.001l0 2.0003c0,94 -50.0005,141 -131.001,172 50.0005,27.9995 91.9997,71.9991 91.9997,150.999l0 2.0003c0,110 -87.9991,180.999 -230.999,180.999l-325 0 0 -700 332.998 0c158,0 262.002,64.0002 262.002,192.001zm-192.001 299c0,-52.0008 -42.9994,-74.0017 -111,-74.0017l-142 0 0 148.001 151.999 0c65.0004,0 101.001,-25.9992 101.001,-72.0014l0 -1.99793zm38.9988 -280.002c0,-51.9984 -40.9991,-75.9997 -109,-75.9997l-182.999 0 0 154.002 178.001 0c79.0001,0 113.998,-29.002 113.998,-76.002l0 -2.0003z"/>
+   <glyph unicode="E" horiz-adv-x="669" d="M616.999 0l0 136.998 -379.998 0 0 147.004 330 0 0 136.998 -330 0 0 142.001 375.002 0 0 136.998 -527.999 0 0 -699.999 532.995 0z"/>
+   <glyph unicode="G" horiz-adv-x="784" d="M719.998 98.9993l0 304.001 -304.001 0 0 -132.998 155.004 0 0 -100.003c-39.0019,-27.9988 -88.9998,-41.9982 -144.997,-41.9982 -124.002,0 -212.005,93.9959 -212.005,221.998l0 1.99991c0,118.998 88.9998,217.998 201.002,217.998 81.0001,0 128.998,-25.9989 183.003,-71.0005l96.9994 117.006c-73.0004,61.9973 -149.004,95.9958 -274.999,95.9958 -212.005,0 -367.002,-162.997 -367.002,-361.999l0 -1.99991c0,-207.002 150.001,-359.999 367.998,-359.999 128.002,0 227.001,49.9978 298.998,110.999z"/>
+   <glyph unicode="L" horiz-adv-x="618" d="M587 0l0 140.001 -349.003 0 0 559.997 -153.993 0 0 -699.999 502.996 0z"/>
+   <glyph unicode="O" horiz-adv-x="849" d="M796.998 349.999l0 1.99991c0,199.002 -154.997,359.999 -370.995,359.999 -216.005,0 -373.002,-162.997 -373.002,-361.999l0 -1.99991c0,-199.002 154.997,-359.999 371.002,-359.999 215.998,0 372.995,162.997 372.995,361.999zm-160.997 -1.99991c0,-120.002 -86.0035,-217.998 -209.998,-217.998 -124.002,0 -212.005,99.9957 -212.005,219.998l0 1.99991c0,120.002 86.0035,217.998 210.005,217.998 123.995,0 211.998,-99.9957 211.998,-219.998l0 -1.99991z"/>
+   <glyph unicode="T" horiz-adv-x="648" d="M614.002 557.997l0 142.001 -580.004 0 0 -142.001 213.002 0 0 -557.997 154.001 0 0 557.997 213.002 0z"/>
+   <glyph unicode="Y" horiz-adv-x="715" d="M703.998 699.999l-174.996 0 -170 -280.999 -167.004 280.999 -179.999 0 268.999 -423.996 0 -276.002 154.001 0 0 278.999 268.999 421z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Gotham";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:6.94;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:#EC4E20;stroke-width:6.94;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil2 {fill:#024240}
+    .fil0 {fill:#024240}
+    .fil1 {fill:#EC4E20}
+    .fil3 {fill:#FFFF66}
+    .fnt1 {font-weight:bold;font-size:545.3px;font-family:'Gotham'}
+    .fnt0 {font-weight:bold;font-size:1661.17px;font-family:'Gotham'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2683487361792">
+   <rect class="fil0 str0" x="1567.71" y="3293.07" width="5120" height="5120"/>
+   <path class="fil1 str1" d="M3026.06 5742.45c0,-580.98 489.15,-1051.96 1092.54,-1051.96 603.4,0 1092.54,470.98 1092.54,1051.96 0,580.98 -489.15,1051.96 -1092.54,1051.96 -603.39,0 -1092.54,-470.98 -1092.54,-1051.96zm1092.54 -1492.24c-855.93,0 -1549.8,668.1 -1549.8,1492.24 0,824.14 693.87,1492.24 1549.8,1492.24 855.94,0 1549.81,-668.1 1549.81,-1492.24 0,-824.14 -693.87,-1492.24 -1549.81,-1492.24z"/>
+   <g>
+    <path class="fil2" d="M5431.04 6620.84c83.58,77.01 130.3,179.61 130.3,313.12l0 3.32c0,338.65 -307.39,475.65 -626.11,475.65l-750.87 0 0 -1476.22 736.81 0c297.27,0 571.64,151.78 571.64,457.37l0 3.32c0,84.64 -21.43,159.4 -61.77,223.44z"/>
+   </g>
+   <g transform="matrix(1.05775 0 0 1 -170.091 1409.77)">
+    <text x="4133.86" y="5846.46"  class="fil3 fnt0">B</text>
+   </g>
+   <g transform="matrix(1.05775 0 0 1 -1739.41 2236.87)">
+    <text x="4133.86" y="5846.46"  class="fil3 fnt1">OLGA</text>
+   </g>
+   <g transform="matrix(1.05775 0 0 1 -1739.41 2236.87)">
+    <text x="5771.39" y="5846.46"  class="fil1 fnt1">BYTE</text>
+   </g>
+  </g>
+ </g>
+</svg>
