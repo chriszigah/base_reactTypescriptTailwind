@@ -10,5 +10,3 @@ Learn the basics of **React.js** with Tailwind CSS and TypeScript. You will lear
 - What are components, props, JSX, SPA, unidirectional data flow, callbacks, state, side effects, and more.
 - How to build your first app with clean & well-organized code
 
-![thumbnail](https://github.com/codinginflow/2024-react-beginner/assets/52977034/8388f39f-b9da-46b6-b5f8-8d1281205069)
-# base_reactTypescriptTailwind
